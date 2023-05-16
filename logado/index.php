@@ -23,7 +23,7 @@
             <form method="post">
                 <button name = 'trocaUsuario'>Trocar de Usuário</button>
                 <button name = 'veiUsuario'>Seus Veículos</button>
-                <button name = 'buscaVeiclo'>Buscar Veículo</button>
+                <button name = 'buscaVeiculo'>Buscar Veículo</button>
                 <button name = 'cadastrarVeiculo'>Cadastrar Veículo</button>
                 <button name = 'usuInativa'>Inativar Usuário</button>
             </form>
